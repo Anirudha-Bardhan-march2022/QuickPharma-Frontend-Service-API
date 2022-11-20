@@ -1,0 +1,14 @@
+.table-order {
+  width: 80%;
+  text-align: center;
+  margin-left: 1%;
+  vertical-align: middle;
+}
+.margin-order {
+  display: flexbox;
+  text-align: end;
+  margin-right: 10%;
+}
+.ordertable {
+  margin-left: -200px;
+}

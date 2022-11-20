@@ -1,0 +1,17 @@
+.head-1{
+    top: 15px;
+    position: relative;
+    margin-left: 300px;
+    margin-right: 310px;
+   
+}
+
+.details{
+    top: 10px;
+    position: relative;
+    margin-left: 300px;
+}
+.user-details{
+    background-color: #F5F5F5;
+    height: 480px;
+}

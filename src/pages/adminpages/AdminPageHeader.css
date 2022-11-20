@@ -1,0 +1,22 @@
+.setter {
+    margin-left: 220px;
+   
+    height: 110px;
+    padding-top: 60px;
+    margin-right: 10px;
+    background-color: #F5F5F5;
+  }
+
+  .button {
+    border: none;
+    color: black;
+    background-color: #F5F5F5;
+    margin-top: 0px;
+  }
+
+  .head{
+    right: 30px;
+    top: 50px;
+    position: absolute;
+
+}

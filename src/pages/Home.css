@@ -1,0 +1,12 @@
+.home-image{
+    width: 100%;
+    height: 400px;
+    margin: 5px;
+}
+.overflow{
+  overflow: hidden;
+}
+.home-bg-image{
+ background-image: url("../images/logo1.jpg");
+ background-size: 100% ;
+}

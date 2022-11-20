@@ -1,0 +1,36 @@
+.bgimg-allorders {
+  background-image: url("../../images/bg_add_products.jpg");
+  opacity: 1;
+  background-size: cover;
+  height: auto;
+}
+
+.heade {
+  margin-left: 60px;
+  margin-top: 20px;
+  color: #2f4f4f;
+}
+
+.bg-inf {
+  background-color: #b0c4de;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px grey;
+}
+.hr-ord {
+  width: 230px;
+  margin-left: 50px;
+  height: 50px;
+}
+
+.fa-shopping-bag fst {
+  color: #2f4f4f;
+}
+.thed {
+  color: #483d8b;
+}
+.col {
+  margin-left: 10px;
+}
+.orderdetail {
+  margin-left: 100px;
+}

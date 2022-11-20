@@ -1,0 +1,23 @@
+.producttype-image{
+    height: 190px;
+    width: 100%;
+}
+.productinfo{
+    height: 250px;
+    width:250px;
+    background-color: gray;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 100px;
+    padding: 10px;
+	border-radius:10px;
+    box-shadow:0 5px 5px 2px #484848;
+	-moz-box-shadow:0 5px 5px 2px #484848;
+	-webkit-box-shadow:0 5px 5px 2px #484848;
+	border:1px solid #000;
+	background: #fff;
+    font-size:20px;
+	display: inline-block;
+    text-align: center;
+}

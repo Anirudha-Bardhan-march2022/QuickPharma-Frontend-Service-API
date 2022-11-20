@@ -1,0 +1,16 @@
+.cont-bg-image{
+    background-image: url("../images/sec.jpg");
+    background-size: 100% ;
+}
+
+.setimg {
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #eeeeee 1px;
+    padding: 3px 10px;
+}

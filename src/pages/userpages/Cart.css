@@ -1,0 +1,17 @@
+.imagethumnail {
+  height: 60px;
+  width: 60px;
+}
+.total-amount {
+  margin-left: 700px;
+}
+
+.table-cart {
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  outline: black;
+}
+.table {
+  margin-left: -100px;
+}

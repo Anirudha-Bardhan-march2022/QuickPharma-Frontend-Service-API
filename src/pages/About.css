@@ -1,0 +1,37 @@
+.img{
+    background-image: url("../images/about4.jpg");
+    background-size: cover ;
+    height: 1000px;
+   }
+.rel1{
+    position: absolute;
+    top: 250px;
+    right: 0;
+    width: 500px;
+    height: 100px;
+    
+}
+.rel2{
+    position: absolute;
+    top: 450px;
+    right: 0;
+    width: 650px;
+    height: 100px;
+    
+}
+.rel3{
+    position: absolute;
+    top: 650px;
+    right: 0;
+    width: 550px;
+    height: 100px;
+   
+}
+.rel4{
+    position: absolute;
+    top: 830px;
+    right: 0;
+    width: 650px;
+    height: 100px;
+    
+}

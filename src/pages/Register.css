@@ -1,0 +1,47 @@
+
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+.max-width{
+    max-width: 400px;
+}
+.icon-size{
+    font-size: 25px;
+}
+.icon-size-envelop{
+font-size: 20px;
+}
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .bgimg {
+    background-image: url("../images/online-chemist.jpg");
+    opacity: 0.9;
+    background-size: cover;
+    
+    
+}
+  .register-container{
+	background-color: #87CEFA;
+        border: 10px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 5px black;
+        margin-right: 750px;
+        margin-left: 40px;
+        margin-bottom: 100px;
+        margin-top: 60px;
+}

@@ -1,0 +1,14 @@
+#footer a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+ #footer .sec-color{
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  #footer .primary-color{
+      background-color: #37474F;
+  }
+  #footer .design-css{
+      text-align: center;
+  }

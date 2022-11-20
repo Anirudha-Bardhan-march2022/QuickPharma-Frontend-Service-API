@@ -1,0 +1,36 @@
+
+.bgimg-addproduct {
+    background-image: url("../../images/bg_add_products.jpg");
+    opacity: 0.9;
+    background-size: cover;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.top{
+    background-color: whitesmoke;
+}
+#ord th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #696969;
+    color: white;
+  }
+  #ord {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    width: 60%;
+    margin-left: 200px;
+  }
+
+  #ord td, #ord th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+  
+#ord tr{
+    text-align: center;
+    background-color: whitesmoke;
+}

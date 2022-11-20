@@ -1,0 +1,23 @@
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+.height{
+    height: 70px;
+}
+.navbar a:hover {
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+  }
+  .submenu{
+      display: none;
+      position: absolute;
+
+  }
+  .medical-css{
+    color: black;
+    font-size: 20px;
+}
+  

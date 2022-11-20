@@ -1,0 +1,63 @@
+.admin-header{
+    text-align: center;
+    height: 600px;
+    background-color: lightgrey;
+}
+.admin-header1{
+    text-align: center;
+    height: 600px;
+}
+.color{
+    background-color: #F5F5F5;
+}
+.col-s{
+    margin: 35px 10px 0px 300px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(216, 110, 150);
+   border-color: blue;
+   border-width: 10px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.usr{
+    margin-top: 35px;
+}
+.col-p{
+    margin: 35px 130px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(194, 233, 54);
+   border-color: blue;
+   border-width: 10px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.col-q{
+    margin: 35px 20px 80px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(129, 210, 224);
+   border-color: blue;
+   border-width: 10px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.box{
+    margin-top: 40px;
+}
+
+.pharma{
+    margin-top: 50px;
+}
+
+.icon{
+    font-size: 160px;
+    margin-left: 130px;
+    margin-top: 40px;
+    opacity: 0.2;
+}

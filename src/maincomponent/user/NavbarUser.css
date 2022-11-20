@@ -1,0 +1,45 @@
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
+.height{
+    height: 70px;
+}
+.navbar a:hover {
+    background-color: lightgrey;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+  }
+  .submenu{
+      display: none;
+      position: absolute;
+
+  }
+  .medical-css{
+    color: black;
+    font-size: 20px;
+}
+.lagimg{
+  right: 15px;
+  position: absolute;
+  color:#E0FFFF;
+  top: 25px;
+}
+.lib{
+  color: white;
+}
+
+.button1{
+    border: none;
+    color: #E0FFFF;
+    background-color: black;
+}
+
+.adjust{
+  background-color: black;
+}
+.w3-border{
+  top: 30px;
+  
+}

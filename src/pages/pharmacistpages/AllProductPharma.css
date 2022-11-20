@@ -1,0 +1,10 @@
+
+.bg-color{
+    background-color: grey;
+}
+.all-product-bg-image {
+    /* background-image: url("../images/product_details_bg.jpg"); */
+    background-color: rgb(240, 235, 235);
+    background-size: 100%;
+
+  }
